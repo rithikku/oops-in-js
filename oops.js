@@ -49,3 +49,5 @@ console.log(userTwo);
 // step2 : constructor function can be called through new keyword
 // step3 : this or argument can inject ho jate hain..
 // step4 : fir mil jayega...
+
+// constructor function can referance, khudi ke baare meh 
